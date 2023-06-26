@@ -1,0 +1,26 @@
+{
+  "name": "karyawan",
+  "version": "1.0.0",
+  "description": "data karyawan",
+  "main": "index.js",
+  "scripts": {
+    "test": "Selamat Datang "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lutf87/data-karyawan.git"
+  },
+  "keywords": [
+    "data",
+    "karyawan"
+  ],
+  "author": "lutf87",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lutf87/data-karyawan/issues"
+  },
+  "homepage": "https://github.com/lutf87/data-karyawan#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
